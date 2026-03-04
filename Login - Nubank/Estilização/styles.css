@@ -91,6 +91,11 @@ button:hover{
     font-size: 16px;
 }
 
+.input-box input::placeholder{
+    font-size: 20px;
+    color: #999;
+}
+
 .input-box i{
     position: absolute;
     right: 20px;
@@ -98,6 +103,11 @@ button:hover{
     transform: translateY(-50%);
     color: #888;
     cursor: pointer;
+}
+
+a{
+   text-decoration: none;
+   font-size: 20px;
 }
 
 
